@@ -29,10 +29,10 @@ mv -f book.devhelp gnome-vfs.devhelp
 %install
 rm -rf $RPM_BUILD_ROOT
 
-install -d $RPM_BUILD_ROOT%{_prefix}/books/gnome-vfs
+install -d $RPM_BUILD_ROOT%{_prefix}/books/gnomevfs
 install -d $RPM_BUILD_ROOT%{_prefix}/specs
 install gnome-vfs.devhelp $RPM_BUILD_ROOT%{_prefix}/specs
-install gnome-vfs/* $RPM_BUILD_ROOT%{_prefix}/books/gnome-vfs
+install gnome-vfs/* $RPM_BUILD_ROOT%{_prefix}/books/gnomevfs
 
 %clean
 rm -rf $RPM_BUILD_ROOT
