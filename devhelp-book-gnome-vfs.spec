@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/gnome-vfs.tar.gz
+# Source0-md5:	2ba7968f4d1ad01d9e8063690ebe5385
 URL:		http://www.devhelp.net/
 Requires:	devhelp
 BuildArch:	noarch
