@@ -1,5 +1,5 @@
 Summary:	DevHelp book: gnome-vfs 1.0
-Summary(pl.UTF-8):   Książka do DevHelpa o gnome-vfs 1.0
+Summary(pl.UTF-8):	Książka do DevHelpa o gnome-vfs 1.0
 Name:		devhelp-book-gnome-vfs
 Version:	1.0
 Release:	1
